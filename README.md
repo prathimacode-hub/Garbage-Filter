@@ -8,6 +8,8 @@ Inspired from the sustainablity I follow up in my life to reduce the ecological 
 ## MY PROJECT
 This project spreads up the awareness and educate the upcoming generations about environmental issues and climatic changes in engaging way. It's basically a game where the trash is been thrown away by the consumers on roads. Here, we as a responsible citizen thriving for a sustainable earth filter out the trash into compost and recycle bins using appropriate keys. It keep track of the points and updates us with the scores simultaneously. This would definitely put individuals on work in gaining wisdom about saving our mother nature from all the malpractises.
 
+Youtube Link : https://www.youtube.com/watch?v=trRKaLj0BN8
+
 ## HOW I BUILT IT
 I had built it using python including libraries needed and as well had imported assets and sounds to make it more functional and realistic. I had used various classes and functions to call all the objects at right point of time in games functionality. The main file consists of all basic inputs along with user friendly GUI and activated operations for enabled buttons. The score tracking is embedded along with 'p' for pause and 'g' for go. Along with it, I had used 'a' and 'd' keys for compost bins, 'right' and 'left' arrow keys for recycle bin. It's a realistic challenge and can't wait to see judges enjoy this hack. I reason I choose this is to make hackathon fun and also address the pressing issue of the decade. Totally loved building this hack. 
 
